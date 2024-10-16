@@ -11,6 +11,7 @@ Any useful resources for the design and deployment of shiny apps
 -  [Cheatsheet](https://shiny.posit.co/r/articles/start/cheatsheet/)
 -  [Production-ready shiny guide](https://engineering-shiny.org/index.html)
 -  [Writing better error messages](https://shiny.posit.co/r/articles/improve/validation/)
+-  [R packages for building robust, production grade {shiny} apps.](https://golemverse.org)
 
 ## Deployment
 
